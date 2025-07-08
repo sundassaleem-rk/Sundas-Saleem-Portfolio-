@@ -1,5 +1,5 @@
-# Sundas-Saleem-Portfolio-
-<!DOCTYPE html>
+# Sundas Saleem Portfolio
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
